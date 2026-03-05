@@ -15,4 +15,4 @@ As with all office scripts the first run of each button can be slow so watch for
 this is a limitaiton of Office Scripts and there is nohting I can do other than write it in VBA which is counter to why I wrote this in the first
 place. 
 
-It works in botht the desktop and web app as long as you have a 365 account.
+It works in both the desktop and web app as long as you have a 365 account.
